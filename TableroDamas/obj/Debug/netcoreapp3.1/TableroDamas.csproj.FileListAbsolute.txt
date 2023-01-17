@@ -1,0 +1,14 @@
+C:\Users\YEYO\source\repos\TableroDamas\TableroDamas\bin\Debug\netcoreapp3.1\TableroDamas.exe
+C:\Users\YEYO\source\repos\TableroDamas\TableroDamas\bin\Debug\netcoreapp3.1\TableroDamas.deps.json
+C:\Users\YEYO\source\repos\TableroDamas\TableroDamas\bin\Debug\netcoreapp3.1\TableroDamas.runtimeconfig.json
+C:\Users\YEYO\source\repos\TableroDamas\TableroDamas\bin\Debug\netcoreapp3.1\TableroDamas.runtimeconfig.dev.json
+C:\Users\YEYO\source\repos\TableroDamas\TableroDamas\bin\Debug\netcoreapp3.1\TableroDamas.dll
+C:\Users\YEYO\source\repos\TableroDamas\TableroDamas\bin\Debug\netcoreapp3.1\TableroDamas.pdb
+C:\Users\YEYO\source\repos\TableroDamas\TableroDamas\obj\Debug\netcoreapp3.1\TableroDamas.csproj.AssemblyReference.cache
+C:\Users\YEYO\source\repos\TableroDamas\TableroDamas\obj\Debug\netcoreapp3.1\TableroDamas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YEYO\source\repos\TableroDamas\TableroDamas\obj\Debug\netcoreapp3.1\TableroDamas.AssemblyInfoInputs.cache
+C:\Users\YEYO\source\repos\TableroDamas\TableroDamas\obj\Debug\netcoreapp3.1\TableroDamas.AssemblyInfo.cs
+C:\Users\YEYO\source\repos\TableroDamas\TableroDamas\obj\Debug\netcoreapp3.1\TableroDamas.csproj.CoreCompileInputs.cache
+C:\Users\YEYO\source\repos\TableroDamas\TableroDamas\obj\Debug\netcoreapp3.1\TableroDamas.dll
+C:\Users\YEYO\source\repos\TableroDamas\TableroDamas\obj\Debug\netcoreapp3.1\TableroDamas.pdb
+C:\Users\YEYO\source\repos\TableroDamas\TableroDamas\obj\Debug\netcoreapp3.1\TableroDamas.genruntimeconfig.cache
